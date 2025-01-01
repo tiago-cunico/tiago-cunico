@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiago-cunico
 - 👀 I’m interested in  um emprego ou estágio na área de TI
-- 🌱 I’m currently learning  HTML5 CSS3 e JavaScript
+- 🌱 I’m currently learning  HTML5 CSS3 e Python 
 - 💞️ I’m looking to collaborate on  em um espaço de trabalho
 - 📫 How to reach me tiagocunico01@gmail.com  https://w w w.linkedin.com/in/tiago-cunico- 21452124 
 
